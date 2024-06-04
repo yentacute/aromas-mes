@@ -3,9 +3,3 @@
   to = "/index.html"
   status = 200
   force = true # COMMENT: ensure that we always redirect
-
-  [[redirects]]
-    from = "/dev-api"
-    to = "http://39.108.65.55:9000"
-    status = 200
-    force = true
