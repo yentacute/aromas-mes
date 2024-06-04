@@ -26,7 +26,6 @@ export function addFabricPicking(data) {
     data: data
   })
 }
-export function 
 
 // 修改领料单头表
 export function updateFabricPicking(data) {

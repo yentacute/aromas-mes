@@ -1,1 +1,0 @@
-import{_ as o,h as c,o as n,c as s,x as t,i as a}from"./index-BP30Yz_m.js";const r={};function _(i,l){const e=c("svg-icon");return n(),s("div",null,[t(" 表单构建 "),a(e,{"icon-class":"build"})])}const f=o(r,[["render",_]]);export{f as default};
