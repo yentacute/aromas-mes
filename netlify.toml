@@ -1,11 +1,16 @@
-# Netlify Configuration File
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
 
-[build]
-  command = "npm run build"
-  publish = "dist"
-
+[[redirects]]
+  from = "/dev-api"
+  to = "http://39.108.65.55:9000/dev-api"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+  
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; connect-src 'self' https://39.108.65.55:9000"
-
+    Access-Control-Allow-Origin = "*"
