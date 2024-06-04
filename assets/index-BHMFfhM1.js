@@ -1,1 +1,0 @@
-import{_ as e,r as s,o as t,c as o,H as a}from"./index-BP30Yz_m.js";const n={class:"app-container home"},c=a({name:"Index"}),_=Object.assign(c,{setup(r){return s("3.8.7"),(p,d)=>(t(),o("div",n))}}),i=e(_,[["__scopeId","data-v-29f32760"]]);export{i as default};
