@@ -1,0 +1,148 @@
+{
+  "errorsData": [
+    {
+      "error_type": "A",
+      "name": "ដាច់អំបោះ 斷紗",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "B",
+      "name": "ម្ជុលខូច 壞針",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "C",
+      "name": "ធ្លុះ 破洞",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "D",
+      "name": "អំបោះត 斷接錠",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "E",
+      "name": "ប្រឡាក់ប្រេង 油汙",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "F",
+      "name": "ប្រឡាក់ 髒污",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "G",
+      "name": "ប្រឡាក់ពណ 色污",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "H",
+      "name": "សសៃអំបោះធំតូច 粗細紗",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "I",
+      "name": "ស្នាមទាក់ 勾紗",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "J",
+      "name": "ក្រណាត់មានស្នាមកោស 擦傷",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "K",
+      "name": "ស្នាមផ្នត់ 折痕",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "L",
+      "name": "ប្រឡាក់ពណ៍លឿង 黄斑",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "M",
+      "name": "ឆ្នូតត្រង់ 直條",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "N",
+      "name": "តំនអំបោះ 紗結",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "O",
+      "name": "បែកព្រុយ 起毛",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "P",
+      "name": "ឆ្នូតទទឺង 橫襠",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "Q",
+      "name": "ជាប់កំទេចអំបោះ 異纖",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    },
+    {
+      "error_type": "R",
+      "name": "បែកផ្កាអំបិល 水波痕",
+      "bellow_three": 0,
+      "bellow_six": 0,
+      "bellow_nine": 0,
+      "upper_nine": 0
+    }
+  ]
+}
