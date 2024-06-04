@@ -1,11 +1,16 @@
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+# Netlify Configuration File
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; connect-src 'self' https://39.108.65.55:9000"
 
 [[redirects]]
-  from = "/dev-api"
-  to = "http://39.108.65.55:9000/dev-api/"
-  status = 200
+  from = "http://39.108.65.55:9000/dev-api/captchaImage"
+  to = "https://39.108.65.55:9000/dev-api/captchaImage"
+  status = 301
   force = true
-  headers = {X-From = "Netlify"}
