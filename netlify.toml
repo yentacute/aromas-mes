@@ -2,3 +2,10 @@
 from = "/*"
 to = "/index.html"
 status = 200
+
+[[redirects]]
+  from = "/dev-api"
+  to = "http://39.108.65.55:9000/dev-api/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
